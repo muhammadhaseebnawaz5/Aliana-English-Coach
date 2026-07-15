@@ -39,38 +39,6 @@ Alina uses a multi-provider LLM backend (Groq, OpenRouter, HuggingFace) with aut
 - **LLM Fallback Chain**: Tries multiple models in order — Groq → OpenRouter → HuggingFace — for maximum uptime
 
 ---
-
-## 🏗️ Project Structure
-
-```
-alina-english-coaching/
-│
-├── app.py                           # Main entry point & PyQt6 UI shell
-├── alina_ui.py                      # Extended UI components
-├── app_icon.ico                     # Application icon
-│
-├── core/
-│   ├── brain.py                     # LLM client manager & JSON parser
-│   └── config.py                    # API keys, model chain, UI colors, coach settings
-│
-├── english_coach/
-│   ├── coach_engine.py              # Main orchestrator: voice I/O, routing, corrections
-│   ├── speaking_practice.py         # Speaking practice mode
-│   ├── pronunciation_drill.py       # Pronunciation drill sessions
-│   ├── mock_interview.py            # Mock job interview simulator
-│   ├── presentation_rehearsal.py    # Presentation rehearsal mode
-│   ├── practice_lab.py              # Free-form practice lab
-│   └── progress_tracker.py         # Session tracking & progress analytics
-│
-├── data/
-│   ├── english_coach_progress.json  # Persistent progress data
-│   └── mistakes_log.txt             # Log of corrections and mistakes
-│
-├── build_app.bat                    # One-click build script (PyInstaller)
-├── install_alina.ps1                # Windows installer (shortcuts + registry)
-└── uninstall_alina.ps1              # Clean uninstaller
-```
-
 ---
 
 ## ⚙️ Prerequisites
