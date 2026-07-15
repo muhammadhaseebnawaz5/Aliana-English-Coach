@@ -1,0 +1,48 @@
+[2026-04-03 15:30:28] Speaking Practice (word_choice)
+You said: The speaker is a Pakistani CS student practicing English
+Correction: As a computer science student from Pakistan
+----------------------------------------
+[2026-04-03 15:30:41] Speaking Practice (grammar)
+You said: None
+Correction: I used dynamic programming to optimize my daily commute by finding the shortest route
+----------------------------------------
+[2026-04-09 13:49:56] Speaking Practice (word_choice)
+You said: The speaker is a Pakistani CS student practicing English.
+Correction: I am a Pakistani CS student.
+----------------------------------------
+[2026-04-09 13:50:05] Speaking Practice (word_choice)
+You said: The Windy World
+Correction: No correction possible, seems unrelated to the topic
+----------------------------------------
+[2026-04-09 18:32:39] Speaking Practice (word_choice)
+You said: The speaker is a Pakistani CS student practicing English
+Correction: I am a Pakistani CS student practicing English
+----------------------------------------
+[2026-04-09 18:32:39] Speaking Practice (word_choice)
+You said: Very
+Correction: I would start by
+----------------------------------------
+[2026-04-10 00:08:30] Speaking Practice (content|answer)
+You said: . . .
+Correction: If I could travel anywhere in the world right now, I'd probably go to Japan because I'm really interested in their culture and food, and it's not too expensive for me.
+----------------------------------------
+[2026-04-10 00:08:47] Speaking Practice (content|answer)
+You said: . . .
+Correction: When I get there, I'd visit Tokyo, try all the different types of ramen, and explore the temples and gardens. I'd also take a trip to the mountains to see the cherry blossoms if it's the right time of year.
+----------------------------------------
+[2026-04-10 00:10:39] Speaking Practice (word_choice|grammar)
+You said: . . .
+Correction: You know, there's this one movie that really changed my perspective on life.
+----------------------------------------
+[2026-04-10 00:10:48] Speaking Practice (word_choice)
+You said: it's because of the main character
+Correction: it's mainly because of the main character
+----------------------------------------
+[2026-04-10 00:12:38] Speaking Practice (word_choice|sentence_structure)
+You said: . . .
+Correction: Let's think about our daily routines and habits
+----------------------------------------
+[2026-04-10 00:12:45] Speaking Practice (word_choice)
+You said: change or improve
+Correction: change or improve something
+----------------------------------------

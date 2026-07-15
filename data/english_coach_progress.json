@@ -1,0 +1,60 @@
+{
+    "weak_words": [
+        "programming",
+        "think",
+        "very",
+        "artificial",
+        "delicious",
+        "projects",
+        "through",
+        "probably",
+        "perspective",
+        "routines"
+    ],
+    "improved_words": [
+        "this",
+        "algorithm",
+        "website"
+    ],
+    "grammar_mistakes": [
+        "None → I used dynamic programming to optimize my daily commute by finding the shortest route"
+    ],
+    "interview_answers": {},
+    "sessions": [
+        {
+            "date": "2026-04-03",
+            "time": "15:31",
+            "type": "speaking",
+            "duration_min": 0,
+            "words_practiced": 18
+        },
+        {
+            "date": "2026-04-03",
+            "time": "15:54",
+            "type": "interview",
+            "duration_min": 0,
+            "words_practiced": 9
+        },
+        {
+            "date": "2026-04-03",
+            "time": "15:55",
+            "type": "interview",
+            "duration_min": 0,
+            "words_practiced": 9
+        }
+    ],
+    "stats": {
+        "total_sessions": 3,
+        "filler_word_trend": [
+            3,
+            1,
+            1
+        ],
+        "pronunciation_scores": [
+            0.0,
+            16.666666666666664
+        ]
+    },
+    "last_session_mode": "practice",
+    "last_session_sub_state": null
+}
